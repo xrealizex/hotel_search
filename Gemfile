@@ -75,3 +75,4 @@ gem 'line-bot-api'
 
 gem 'dotenv-rails'
 
+gem 'httpclient'
